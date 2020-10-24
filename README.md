@@ -1,2 +1,3 @@
 # RC-Car
-Arduino based rc car with remote
+
+Arduino based rc car with remote controls.
